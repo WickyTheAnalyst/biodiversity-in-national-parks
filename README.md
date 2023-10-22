@@ -6,7 +6,7 @@ The objective of this project is to conduct a comprehensive analysis of biodiver
 
 ## Goal
 
-The National Park Service aims to protect endangered species and maintain biodiversity in their parks. As an analyst, your key tasks involve studying species characteristics, conservation status, and their connection to the parks.
+The National Park Service aims to protect endangered species and maintain biodiversity in their parks. As an analyst, my tasks were studying species characteristics, conservation status, and their connection to the parks.
 
 ## Objective
 
